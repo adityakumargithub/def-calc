@@ -1,7 +1,3 @@
-Absolutely, Aditya! Here's a concise README for your HTML and JavaScript calculator:
-
----
-
 # Simple Calculator
 
 Hey friend! 👋 Welcome to the Simple Calculator project. This calculator is built using HTML and JavaScript, making it easy to understand and customize.
